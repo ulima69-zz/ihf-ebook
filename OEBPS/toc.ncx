@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx
+  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <!--The following four metadata items are required for all
+            NCX documents, including those conforming to the relaxed
+            constraints of OPS 2.0-->
+      <meta name="dtb:uid" content="idtest"/>
+      <meta name="dtb:depth" content="3"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Introdução a História da Filosofia</text>
+   </docTitle>
+   <docAuthor>
+      <text>Alves Lima</text>
+   </docAuthor>
+   <navMap>
+      <navPoint id="titulo" playOrder="1">
+         <navLabel>
+            <text>Título</text>
+         </navLabel>
+         <content src="titulo.html"/>
+      </navPoint>
+	  
+	  
+	  <navPoint id="ihf001a" playOrder="2">
+         <navLabel>
+            <text>Texto 1 - Matafísica - Aristóteles</text>
+         </navLabel>
+         <content src="ihf001a.html"/>
+      </navPoint>  
+	  
+	  <navPoint id="ihf001b" playOrder="2">
+         <navLabel>
+            <text>Texto 1 - Ética a Nicômaco - Aristóteles</text>
+         </navLabel>
+         <content src="ihf001b.html"/>
+      </navPoint>  
+	  
+	  
+	  <navPoint id="ihf002a" playOrder="2">
+         <navLabel>
+            <text>Texto 2 - Epicuro - Carta sobre a felicidade (a Meneceu)</text>
+         </navLabel>
+         <content src="ihf002a.html"/>
+      </navPoint>
+	  
+	  
+	  <navPoint id="ipf002b" playOrder="2">
+         <navLabel>
+            <text>Texto 2 - Sêneca - Cartas a Lucilio</text>
+         </navLabel>
+         <content src="ipf002b.html"/>
+      </navPoint>
+	  
+	  
+	  <navPoint id="ipf-tc001" playOrder="2">
+         <navLabel>
+            <text>Texto Complementar - Jonathan Barnes, Os filósofos pré-socráticos ("Introdução")</text>
+         </navLabel>
+         <content src="ipf-tc001.html"/>
+      </navPoint>
+	  
+	  
+	  <navPoint id="ipf-tc002" playOrder="2">
+         <navLabel>
+            <text>Texto Complementar - Marilena Chauí, Introdução à História da Filosofia, vol. 1, capítulo 1: "O nascimento da filosofia" , Seção 2: "As teses contrárias a respeito da origem da filosofia"</text>
+         </navLabel>
+         <content src="ipf-tc002.html"/>
+      </navPoint>
+	  
+	  
+	  
+	  <navPoint id="ipf-tc003" playOrder="2">
+         <navLabel>
+            <text>Texto Complementar - Marilena Chauí, Introdução à História da Filosofia, vol. 1, Capítulo V</text>
+         </navLabel>
+         <content src="ipf-tc003.html"/>
+      </navPoint>
+	  
+	  
+   </navMap>
+</ncx>
