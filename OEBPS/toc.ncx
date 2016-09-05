@@ -15,9 +15,10 @@
       <text>Introdução a História da Filosofia</text>
    </docTitle>
    <docAuthor>
-      <text>Alves Lima</text>
+      <text>Wllyssys Alves</text>
    </docAuthor>
    <navMap>
+   
       <navPoint id="titulo" playOrder="1">
          <navLabel>
             <text>Título</text>
@@ -33,7 +34,7 @@
          <content src="ihf001a.html"/>
       </navPoint>  
 	  
-	  <navPoint id="ihf001b" playOrder="2">
+	  <navPoint id="ihf001b" playOrder="3">
          <navLabel>
             <text>Texto 1 - Ética a Nicômaco - Aristóteles</text>
          </navLabel>
@@ -41,7 +42,7 @@
       </navPoint>  
 	  
 	  
-	  <navPoint id="ihf002a" playOrder="2">
+	  <navPoint id="ihf002a" playOrder="4">
          <navLabel>
             <text>Texto 2 - Epicuro - Carta sobre a felicidade (a Meneceu)</text>
          </navLabel>
@@ -49,37 +50,22 @@
       </navPoint>
 	  
 	  
-	  <navPoint id="ipf002b" playOrder="2">
+	  <navPoint id="ihf002b" playOrder="5">
          <navLabel>
             <text>Texto 2 - Sêneca - Cartas a Lucilio</text>
          </navLabel>
-         <content src="ipf002b.html"/>
+         <content src="ihf002b.html"/>
       </navPoint>
 	  
 	  
-	  <navPoint id="ipf-tc001" playOrder="2">
+	  <navPoint id="ihf003a" playOrder="6">
          <navLabel>
             <text>Texto Complementar - Jonathan Barnes, Os filósofos pré-socráticos ("Introdução")</text>
          </navLabel>
-         <content src="ipf-tc001.html"/>
+         <content src="ihf-tc001.html"/>
       </navPoint>
 	  
 	  
-	  <navPoint id="ipf-tc002" playOrder="2">
-         <navLabel>
-            <text>Texto Complementar - Marilena Chauí, Introdução à História da Filosofia, vol. 1, capítulo 1: "O nascimento da filosofia" , Seção 2: "As teses contrárias a respeito da origem da filosofia"</text>
-         </navLabel>
-         <content src="ipf-tc002.html"/>
-      </navPoint>
-	  
-	  
-	  
-	  <navPoint id="ipf-tc003" playOrder="2">
-         <navLabel>
-            <text>Texto Complementar - Marilena Chauí, Introdução à História da Filosofia, vol. 1, Capítulo V</text>
-         </navLabel>
-         <content src="ipf-tc003.html"/>
-      </navPoint>
 	  
 	  
    </navMap>

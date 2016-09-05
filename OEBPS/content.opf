@@ -3,14 +3,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
    <metadata xmlns:opf="http://www.idpf.org/2007/opf"
              xmlns:dc="http://purl.org/dc/elements/1.1/">
-      <dc:title>Saga do primeiro ePub</dc:title>
-      <dc:creator opf:role="aut" opf:file-as="Dani">Dani</dc:creator>
-      <dc:date opf:event="original-publication">2012</dc:date>
+      <dc:title>Introdução a História da Filosofia</dc:title>
+      <dc:creator opf:role="aut" opf:file-as="Dani">Wllyssys</dc:creator>
+      <dc:date opf:event="original-publication">2016</dc:date>
       <dc:publisher>Tableless</dc:publisher>
       <dc:date opf:event="epub-publication">2011-01-30</dc:date>
-      <dc:subject>Primeiro ePub</dc:subject>
-      <dc:subject>Estudos</dc:subject>
-      <dc:source>Tableless</dc:source>
+      <dc:subject>Filosofia</dc:subject>
+      <dc:subject>História</dc:subject>
+      <dc:source>Textos do Primeiro Semestre de Filosofia 2016.2</dc:source>
       <dc:rights>Pode copiar galera!</dc:rights>
       <dc:identifier id="EPB-UUID">minhaid</dc:identifier>
       <dc:language>pt-br</dc:language>
@@ -18,9 +18,11 @@
    <manifest>
       <!-- Documentos -->
       <item id="titulo" href="titulo.html" media-type="application/xhtml+xml" />
-	  <item id="ipf001" href="ipf001.html" media-type="application/xhtml+xml" />
-	  <item id="ipf002" href="ipf002.html" media-type="application/xhtml+xml" />
-	  <item id="ipf003" href="ipf003.html" media-type="application/xhtml+xml" />
+	  <item id="ihf001a" href="ihf001a.html" media-type="application/xhtml+xml" />
+	  <item id="ihf001b" href="ihf001b.html" media-type="application/xhtml+xml" />
+	  <item id="ihf002a" href="ihf002a.html" media-type="application/xhtml+xml" />
+	  <item id="ihf002b" href="ihf002b.html" media-type="application/xhtml+xml" />
+	  <item id="ihf003a" href="ihf003a.html" media-type="application/xhtml+xml" />
 
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css"/>
@@ -30,7 +32,14 @@
    </manifest>
    <spine toc="ncx">
       <itemref idref="titulo" linear="yes"/>
-	  <itemref idref="capitulo1" linear="yes"/>
-	  <itemref idref="capitulo2" linear="yes"/>
+	  <itemref idref="ihf001a" linear="yes"/>
+	  <itemref idref="ihf001b" linear="yes"/>
+	  <itemref idref="ihf002a" linear="yes"/>
+	  <itemref idref="ihf002b" linear="yes"/>
+	  <itemref idref="ihf003a" linear="yes"/>
    </spine>
+   <guide>
+    <reference type="toc" title="CONTENTS" href="ihf001a.html"/>
+    <reference type="cover" title="Capa" href="titulo.html"/>
+  </guide>
 </package>
