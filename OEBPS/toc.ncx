@@ -62,7 +62,16 @@
          <navLabel>
             <text>Texto Complementar - Jonathan Barnes, Os filósofos pré-socráticos ("Introdução")</text>
          </navLabel>
-         <content src="ihf-tc001.html"/>
+         <content src="ihf003a.html"/>
+      </navPoint>
+	  
+	  
+	  
+	  <navPoint id="ihf003b" playOrder="7">
+         <navLabel>
+            <text>Texto Complementar - Marilena Chauí, Teses contrárias a respeito da origem da filosofia</text>
+         </navLabel>
+         <content src="ihf003b.html"/>
       </navPoint>
 	  
 	  

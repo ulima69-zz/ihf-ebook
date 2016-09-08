@@ -23,6 +23,7 @@
 	  <item id="ihf002a" href="ihf002a.html" media-type="application/xhtml+xml" />
 	  <item id="ihf002b" href="ihf002b.html" media-type="application/xhtml+xml" />
 	  <item id="ihf003a" href="ihf003a.html" media-type="application/xhtml+xml" />
+	  <item id="ihf003b" href="ihf003b.html" media-type="application/xhtml+xml" />
 
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css"/>
@@ -37,6 +38,7 @@
 	  <itemref idref="ihf002a" linear="yes"/>
 	  <itemref idref="ihf002b" linear="yes"/>
 	  <itemref idref="ihf003a" linear="yes"/>
+	  <itemref idref="ihf003b" linear="yes"/>
    </spine>
    <guide>
     <reference type="toc" title="CONTENTS" href="ihf001a.html"/>
