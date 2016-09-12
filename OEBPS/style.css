@@ -3,11 +3,11 @@ body {
     padding-left: 20px;
 }
 
-h1.titulo{
+centro{
 	text-align: center;
 }
 
-h2.autor{
+direita{
 	text-align: right;
 }
 
